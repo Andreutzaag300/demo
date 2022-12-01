@@ -1,0 +1,50 @@
+glubles/globlers:
+	1.Classic
+	2.Warrior
+	3.General
+	4.Rege si Regina
+	5.Bodyguards
+
+1. Classic/basic:-mici si rotunzi neuniform
+		 -din mucus
+		 -nu mult damage(1-5 hp)
+		 -looks inocent
+2.Warrior:-ii stacked up pe 2 basics
+	  -helmet si spear(varf de piatra si restu de mucus intarit)
+	  -aceeasi marime si increased hp cu umpik
+	  
+3.General:-cativa pe toata harta
+	  -palarie pirate-ish
+	  -belt maro in x cu piatra in mijloc
+	  -in dreapta are un fel de mitraliera attached to the body
+	  -arunca cu mai multe glubballs sau cu jet de mazga
+	  - mustaza+fatza incruntata
+
+4.1.Regele:-incruntat
+	   -ca o rama(jaba the hut ish)
+	   -coroana de mazga(sau metale)
+	   -barba de mazga
+	   -are in mazga de corp sabii ruginite de la fosti luptatori
+	   -poate sa isi formeze ce corp vrea, dar ii ea din stamina
+	   -ii final boss si vrea sa si apere planeta(are detinuti)
+4.2.Regina:-mai grasa
+	   -suparata pe rege
+	   -machiata
+	   -fusta
+	   -coroana de mazga(sau metale)
+	   -se cearta cu regele
+	   -ea ii ii produce pe toti
+
+5.Bodyguards:-boxy ish
+	     -masivi
+	     -se cred jmecheri
+	     -fac misto
+	     -au burta dar brate mari si cap mic rotund
+	     -2 per usa
+
+6.Heavy Machinery:-tanks?
+
+7.New Char: - dupa ce omori bossul, vine din pamant robotzi
+(tu esti in pestera)
+	    -si de acolo poti face o continuare a jocului eventual
+	
